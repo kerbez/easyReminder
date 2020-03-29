@@ -57,6 +57,7 @@
 
 ## Struct 
 **c++**:
+
     struct Code{
         int a;
         int b;
