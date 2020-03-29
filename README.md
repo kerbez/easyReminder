@@ -53,3 +53,15 @@
     pop() – Deletes the top most element of the stack – Time Complexity : O(1)
     
     stack <int> s; 
+
+
+## Struct 
+**c++**:
+    struct Code{
+        int a;
+        int b;
+        int c;
+        int d;
+    };
+    Code add = {0, 0, 0, 0};
+    cout<<add.a<<" "<<add.b<<" "<<add.c<<" "<<add.d<<endl;
